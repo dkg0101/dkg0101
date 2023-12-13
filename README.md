@@ -1,7 +1,4 @@
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />I am Dhananjay</h1>
+<h1 align="center">Hey there,👋 I am Dhananjay</h1>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
