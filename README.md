@@ -1,4 +1,4 @@
-<h1 align="center">Hey there,👋 I am Dhananjay</h1>
+<h1 align="center">Hey there! 👋 I am Dhananjay</h1>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
